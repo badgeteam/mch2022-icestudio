@@ -10,7 +10,7 @@ MCH22 Badge is only supported in the latest WIP versions, dont worry about it. W
 
 Icestudio is a visual editor, you develop your FPGA circuits with blocks and verilog, depends of your skills.
 
-In Icestudio "libraries" are named "Collections", you could install collections with a lot of blocks (PWM, motors, control leds, RiscV, Z80 proccessor...)
+In Icestudio "libraries" are named "Collections", you could install collections with a lot of blocks (PWM, motors, control leds, RiscV, Z80 processor...)
 
 You can downloading [https://downloads.icestudio.io](https://github.com/FPGAwars/Collection-Jedi) that count with a lot of blocks.
 

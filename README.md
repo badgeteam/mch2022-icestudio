@@ -12,7 +12,7 @@ Icestudio is a visual editor, you develop your FPGA circuits with blocks and ver
 
 In Icestudio "libraries" are named "Collections", you could install collections with a lot of blocks (PWM, motors, control leds, RiscV, Z80 processor...)
 
-You can downloading [https://downloads.icestudio.io](https://github.com/FPGAwars/Collection-Jedi) that count with a lot of blocks.
+You can downloading [https://github.com/FPGAwars/Collection-Jedi](https://github.com/FPGAwars/Collection-Jedi) that count with a lot of blocks.
 
 In Icestudio Wiki  are install instructions and a lot of collections sources:
 
@@ -20,7 +20,7 @@ In Icestudio Wiki  are install instructions and a lot of collections sources:
 
 Visit the main page to view more available collections and information:
 
-[https://github.com/FPGAwars/icestudio](https://github.com/FPGAwars/icestudio/wiki)
+[https://github.com/FPGAwars/icestudio/wiki](https://github.com/FPGAwars/icestudio/wiki)
 
 
 ## This repository is under development and during the event,  you could find more examples and tutorials, maintain on touch!

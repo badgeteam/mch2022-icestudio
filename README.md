@@ -20,7 +20,7 @@ In Icestudio Wiki  are install instructions and a lot of collections sources:
 
 Visit the main page to view more available collections and information:
 
-[https://github.com/FPGAwars/icestudio/wiki](https://github.com/FPGAwars/icestudio/wiki)
+[https://github.com/FPGAwars/icestudio](https://github.com/FPGAwars/icestudio)
 
 
 ## This repository is under development and during the event,  you could find more examples and tutorials, maintain on touch!

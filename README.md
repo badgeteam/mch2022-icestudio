@@ -1,26 +1,53 @@
-# Icestudio examples
+# Welcome to the Icestudio getting starting guide at MCH2022!
 
-Icestudio is an IDE to work with FPGAs easily.
+![Icestudio & MCH22 Badge](/images/mch22-splash.jpg?raw=true)
 
-It is a very good tool to introducing you in the Open Source FPGA tools and for advanced users with very less friction.
+Icestudio is a design tool focused on new comers to the FPGA world. 
 
-You can download Icestudio from [https://downloads.icestudio.io](https://downloads.icestudio.io)
+This tool started as an easy way to introducing the development proccess of open source FPGAs but today a lot of advanced FPGA developers use it, mixing traditional ways of work with the easy flow of the drag and drop Icestudio IDE.
 
-MCH22 Badge is only supported in the latest WIP versions, dont worry about it. WIP versions are very stable and count with the latest features.
+We are working in very powerful new features that will be deployed along 2022.
 
-Icestudio is a visual editor, you develop your FPGA circuits with blocks and verilog, depends of your skills.
+In this repository you could find some examples to play and learn FPGAs with your badge. If you are a newby with FPGAs or with Icestudio, explore it!
 
-In Icestudio "libraries" are named "Collections", you could install collections with a lot of blocks (PWM, motors, control leds, RiscV, Z80 processor...)
+You can download Icestudio from [Icestudio download page](https://download.icestudio.io)
 
-You can downloading [https://github.com/FPGAwars/Collection-Jedi](https://github.com/FPGAwars/Collection-Jedi) that count with a lot of blocks.
+Download always the latest wip (the most recent binaries) and dont worry, Icestudio WIPs are very stables and contains the latest features..
 
-In Icestudio Wiki  are install instructions and a lot of collections sources:
+In the case of the MCH22 Badge you need to have installed python3 in your computer. Check the getting starter guide of the badge [at the official website](https://badge.team/docs/badges/mch2022/getting-started/)
 
-[https://github.com/FPGAwars/icestudio/wiki](https://github.com/FPGAwars/icestudio/wiki)
+## What i could do with Icestudio?
 
-Visit the main page to view more available collections and information:
+Definitively, all of you want... your mind is your limit. In single steps you will be playing with your badge making incredible things. You only:
 
-[https://github.com/FPGAwars/icestudio](https://github.com/FPGAwars/icestudio)
 
+* **Step 1**: Draw your circuit
+
+![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/draw-two-leds-0.6.0-default-.gif)
+
+
+* **Step 2**: Upload it to your favorite OpenSource FPGA board 
+
+
+![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/upload-two-leds-0.6.0-default-.gif)
+
+* **Step 3**: Done! 😀️
+
+# Some nice projects:
+
+A list of some projects made it with Icetudio:
+
+## Icemem collection: example 23
+
+([Icemem example repo](https://github.com/FPGAwars/iceMem/tree/master/examples))
+
+![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/screenshot-03-icemem.png)
+
+## SPI 7 segments 4 digits controller example
+
+([SPI Display Notes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.7:-Display-SPI-de-4-d%C3%ADgitos-de-7-segmentos)) (In spanish)
+
+
+And this is only some things. Do you want to try it? Start [here in our step by step getting starting guide](/starter-guide/README.md)
 
 ## This repository is under development and during the event,  you could find more examples and tutorials, maintain on touch!

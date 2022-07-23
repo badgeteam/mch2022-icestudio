@@ -32,6 +32,10 @@ Definitively, all of you want... your mind is your limit. In single steps you wi
 # Some nice projects:
 
 A list of some projects made it with Icetudio:
+# Nand2tetris
+[The Nand2tetris course, using icestudio for building hardware on Opensource FPGAs from the begining](https://github.com/Obijuan/nand2tetris-icestudio)
+
+![](https://github.com/Obijuan/nand2tetris-icestudio/raw/master/wiki/img/Nand2tetris-05.gif)
 
 
 # Z80-FPGA
@@ -50,11 +54,6 @@ A list of some projects made it with Icetudio:
 # SwapForth J1a
 [SwapForth J1a processor for Icestudio](https://github.com/Obijuan/j1a-icestudio)
 ![](https://github.com/Obijuan/j1a-icestudio/raw/master/wiki/project-logo.png)
-
-# Nand2tetris
-[The Nand2tetris course, using icestudio for building hardware on Opensource FPGAs from the begining](https://github.com/Obijuan/nand2tetris-icestudio)
-
-![](https://github.com/Obijuan/nand2tetris-icestudio/raw/master/wiki/img/Nand2tetris-05.gif)
 
 ## Icemem collection
 

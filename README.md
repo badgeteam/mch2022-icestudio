@@ -25,11 +25,7 @@ Definitively, all of you want... your mind is your limit. In single steps you wi
 
 ![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/draw-two-leds-0.6.0-default-.gif)
 
-
-* **Step 2**: Upload it to your favorite OpenSource FPGA board 
-
-
-![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/upload-two-leds-0.6.0-default-.gif)
+* **Step 2**: Upload it to your Badge, only pressing a button. 
 
 * **Step 3**: Done! 😀️
 
@@ -37,15 +33,34 @@ Definitively, all of you want... your mind is your limit. In single steps you wi
 
 A list of some projects made it with Icetudio:
 
-## Icemem collection: example 23
 
-([Icemem example repo](https://github.com/FPGAwars/iceMem/tree/master/examples))
+# Z80-FPGA
+[Z80 CPU for OpenFPGAs, with Icestudio](https://github.com/Obijuan/Z80-FPGA)
+![](https://github.com/Obijuan/Z80-FPGA/raw/master/wiki/project-logo.png)
+
+
+# RISC-V-FPGA
+[RiscV CPU based on PicoRV32](https://github.com/Obijuan/RISC-V-FPGA)
+![](https://github.com/Obijuan/RISC-V-FPGA/raw/master/wiki/project-logo.png)
+
+# FemtoRV Quark
+[Learning about the FemtoRV processor, by Bruno Levy](https://github.com/Obijuan/FemtoRV-learn)
+![](https://github.com/Obijuan/RISC-V-FPGA/raw/master/wiki/project-logo.png)
+
+# SwapForth J1a
+[SwapForth J1a processor for Icestudio](https://github.com/Obijuan/j1a-icestudio)
+![](https://github.com/Obijuan/j1a-icestudio/raw/master/wiki/project-logo.png)
+
+# Nand2tetris
+[The Nand2tetris course, using icestudio for building hardware on Opensource FPGAs from the begining](https://github.com/Obijuan/nand2tetris-icestudio)
+
+![](https://github.com/Obijuan/nand2tetris-icestudio/raw/master/wiki/img/Nand2tetris-05.gif)
+
+## Icemem collection
+
+[Icemem example repo](https://github.com/FPGAwars/iceMem/tree/master/examples)
 
 ![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/screenshot-03-icemem.png)
-
-## SPI 7 segments 4 digits controller example
-
-([SPI Display Notes](https://github.com/Obijuan/Cuadernos-tecnicos-FPGAs-libres/wiki/CT.7:-Display-SPI-de-4-d%C3%ADgitos-de-7-segmentos)) (In spanish)
 
 
 And this is only some things. Do you want to try it? Start [here in our step by step getting starting guide](/starter-guide/README.md)

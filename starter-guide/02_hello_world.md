@@ -13,7 +13,7 @@ Then you view your badge change to FPGA mode, loading the bitsream and working.
 
 When the bitstream finish to load, the RGB led turns on and rotate its color.
 
-![](assets/02_hello_world/03.png)
+![](assets/02_hello_world/03.gif)
 
 
 

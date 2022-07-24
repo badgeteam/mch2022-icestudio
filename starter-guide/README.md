@@ -18,24 +18,24 @@ https://downloads.icestudio.io
 
 Launch your binary and Icestudio start.
 
-[](/assets/01/01.png)
+[](assets/01/01.png)
 
 The first you view is the startup screen.
 
 At the first start you need to select your board, in this case MCH2022:
-[](/assets/01/02.png)
+[](assets/01/02.png)
 
 
 The next step consist in install the APIO toolchain. This is a very easy step, you only need to click in the right bottom toaster tip:
-[](/assets/01/03.png)
+[](assets/01/03.png)
 
 [](/assets/01/04.png)
 APIO is a compiled and packaged version of Yosys toolchain, you dont need to fight with compilations or complex setups.
 
-[](/assets/01/05.png)
+[](assets/01/05.png)
 
 Once toolchain installation is finished, you are ready to do your first design.
-[](/assets/01/06.png)
+[](assets/01/06.png)
 
 
 ### :point_right: Continue to the next step, [our first design](01_hello_world.md)

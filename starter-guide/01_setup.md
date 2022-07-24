@@ -70,4 +70,4 @@ Visit our [wiki page](https://github.com/FPGAwars/icestudio/wiki) that contais a
 
 
 
-### :point_right: Continue to the next step, [hello_world](01_hello_world.md)
+### :point_right: Continue to the next step, [hello world](02_hello_world.md)

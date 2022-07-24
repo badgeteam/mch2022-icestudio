@@ -14,4 +14,9 @@ https://downloads.icestudio.io
 
 * In each case you need to have installed Python 3 in your system and in your PATH.
 
+### Continue to the next step, [our first design](01_hello_world.md)
 
+## Useful references
+
+*[Official repository](https://github.com/FPGAwars/icestudio)
+*[Official documentation, is a working process doc](https://github.com/FPGAwars/icestudio/wiki/Installation)

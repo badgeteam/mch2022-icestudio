@@ -29,6 +29,9 @@ Definitively, all of you want... your mind is your limit. In single steps you wi
 
 * **Step 3**: Done! 😀️
 
+
+Install it and try! you could start with [our starter guide](https://badge.team/docs/badges/mch2022/getting-started/).
+
 # Some nice projects:
 
 A list of some projects made it with Icetudio:
@@ -62,6 +65,5 @@ A list of some projects made it with Icetudio:
 ![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/screenshot-03-icemem.png)
 
 
-And this is only some things. Do you want to try it? Start [here in our step by step getting starting guide](/starter-guide/README.md)
 
 ## This repository is under development and during the event,  you could find more examples and tutorials, maintain on touch!

@@ -1,6 +1,8 @@
 # Hello world
 
-Open the first example, located in **examples** folder, named hello_world:
+Open the example called
+[`hello_world`](https://github.com/badgeteam/mch2022-icestudio/tree/main/examples/hello_world),
+located in the **examples** folder:
 
 ![](assets/02_hello_world/01.png)
 
@@ -9,15 +11,16 @@ Go to menu **Tools / Verify**, and try **Build** and finally **Upload**:
 
 ![](assets/02_hello_world/02.png)
 
-Then you view your badge change to FPGA mode, loading the bitsream and working.
+Next, watch your Badge change to FPGA mode, loading the bitsream and working.
 
-When the bitstream finish to load, the RGB led turns on and rotate its color.
+When the bitstream finishes loading, the RGB LED turns on and alternates its
+color.
 
 ![](assets/02_hello_world/03.gif)
 
 
 
-You load your first FPGA design!
+Congratulations: You loaded your first FPGA design!
 
 
-### :point_right: Continue to the next step, [your first design](03_your_first_design.md)
+### :point_right: Continue to the next step, [Your First Design](03_your_first_design.md)

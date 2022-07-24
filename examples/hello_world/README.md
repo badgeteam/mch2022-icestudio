@@ -4,15 +4,17 @@ HELLO WORLD
 Overview
 --------
 
-This example implements in Icestudio the example in https://github.com/badgeteam/mch2022-firmware-ice40/tree/master/projects/Fading-RGB
+This example implements the Verilog example in
+https://github.com/badgeteam/mch2022-firmware-ice40/tree/master/projects/Fading-RGB
+using Icestudio.
 
-Try it
+Try It
 ------
-- Open hello_world.ice file in Icestudio (https://downloads.icestudio.io)
+- Open the `hello_world.ice` file in Icestudio (https://downloads.icestudio.io)
 - Build
 - Upload
 
-Then you can view the RGB changing its color
+Watch the RGB changing its color! Be amazed!
 
 License
 -------

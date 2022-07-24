@@ -51,8 +51,7 @@ You can view a new kind of block, as an output, has a connector in the left and 
 
 Then we could connect the **rgb0** output pin of the RGB block to the physical output:
 
-
-![](assets/03_your_first_design/09v.mov)
+<video src='assets/03_your_first_design/09v.mov' width=180/>
 
 
 

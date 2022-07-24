@@ -51,7 +51,7 @@ You can view a new kind of block, as an output, has a connector in the left and 
 
 Then we could connect the **rgb0** output pin of the RGB block to the physical output:
 
-<video src='assets/03_your_first_design/09v.mov' width=180/>
+![](assets/03_your_first_design/09v.gif)
 
 
 
@@ -74,7 +74,7 @@ To generate easily a pulse modulation that turn on our led, we could use a block
 The block to use for this purpouse is the **Heart** block of the  Jedi collection, the next video shows the path to select. You only need to browse the component tree and click on it to put into the design:
 
 
-![](assets/03_your_first_design/11.mov)
+![](assets/03_your_first_design/11.gif)
 
 
 In this way, now we have the red signal configured to emit a pulse at 1Hz, but we need to  setup G and B color values, for this test we set up 0 value to view only the red color component turned on.
@@ -87,7 +87,7 @@ To assign a 0 value we could use a block that emits a 0 signal from his output. 
 As you seen in the next video you can assign the same output to multiple inputs:
 
 
-![](assets/03_your_first_design/13.mov)
+![](assets/03_your_first_design/13.gif)
 
 
 ### Now our design is operative
@@ -116,7 +116,7 @@ You could assign a name or left blank:
 Then setting your value, for example 20Hz (veo pulses per second) and connect to the parameter input:
 
 
-![](assets/03_your_first_design/17.mov)
+![](assets/03_your_first_design/17.gif)
 
 ### Try it! change values of the heart frequenzy and remember always **Build** and then **Upload**
 
@@ -124,7 +124,7 @@ Then setting your value, for example 20Hz (veo pulses per second) and connect to
 Finally remember you can zoon and move along the design (and enter into blocks with double click):
 
 
-![](assets/03_your_first_design/18.png)
+![](assets/03_your_first_design/18.gif)
 
 
 ### :point_right: Continue to the next step, [interactivity](04_interactivity.md)

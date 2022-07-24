@@ -30,7 +30,7 @@ Definitively, all of you want... your mind is your limit. In single steps you wi
 * **Step 3**: Done! 😀️
 
 
-### Install it and try! you could start with [our Icestudio starter guide](starter-guide/01_setup.md)
+### Install it and try! you could start with [our Icestudio starter guide](started-guide/01_setup.md)
 
 
 # Some nice projects:

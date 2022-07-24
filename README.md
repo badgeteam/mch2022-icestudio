@@ -32,7 +32,6 @@ Definitively, all of you want... your mind is your limit. In single steps you wi
 
 ### Install it and try! you could start with [our Icestudio starter guide](starter-guide/01_setup.md)
 
-but firts of all setup your badge, you should read the [official badge getting started](https://badge.team/docs/badges/mch2022/getting-started/).
 
 # Some nice projects:
 

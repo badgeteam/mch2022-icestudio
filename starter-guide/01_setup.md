@@ -52,8 +52,6 @@ Now you need to restart Icestudio. We are working in a living complete reload bu
 First of all **save** your empty design. This is important because Icestudio generate some files when generate the bitstream and in many cases you need to review something in it.
 
 After save, we started the **Collection manager**. This is a manager for blocks. You only need to move your cursor at the left window border and a panel appears.
-![](assets/01_setup/04.png)
-
 
 Then click on the first icon and this window appears:
 ![](assets/01_setup/05.png)

@@ -59,7 +59,7 @@ If you want to modify configuration of Icestudio, you could find in **edit / pre
 
 
 
-### :point_right: Continue to the next step, [our first design](01_hello_world.md)
+### :point_right: Continue to the next step, [our first design](01_setup.md)
 
 ## Useful references
 

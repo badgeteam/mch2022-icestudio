@@ -67,5 +67,10 @@ A list of some projects made it with Icetudio:
 ![](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/screenshot-03-icemem.png)
 
 
+## More collections and blocks
+
+You can find more blocks and collections at [FPGAwars community](https://github.com/FPGAwars)
+
+
 
 ## This repository is under development and during the event,  you could find more examples and tutorials, maintain on touch!

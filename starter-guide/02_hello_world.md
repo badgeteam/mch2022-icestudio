@@ -18,3 +18,6 @@ When the bitstream finish to load, the RGB led turns on and rotate its color.
 
 
 You load your first FPGA design!
+
+
+### :point_right: Continue to the next step, [your first design](03_your_first_design.md)

@@ -30,11 +30,14 @@ Definitively, all of you want... your mind is your limit. In single steps you wi
 * **Step 3**: Done! 😀️
 
 
-Install it and try! you could start with [our starter guide](https://badge.team/docs/badges/mch2022/getting-started/).
+### Install it and try! you could start with [our Icestudio starter guide](starter-guide/01_setup.md)
+
+but firts of all setup your badge, you should read the [official badge getting started](https://badge.team/docs/badges/mch2022/getting-started/).
 
 # Some nice projects:
 
 A list of some projects made it with Icetudio:
+
 # Nand2tetris
 [The Nand2tetris course, using icestudio for building hardware on Opensource FPGAs from the begining](https://github.com/Obijuan/nand2tetris-icestudio)
 

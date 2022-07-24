@@ -68,6 +68,4 @@ The next time all we be avabilable instantly.
 Visit our [wiki page](https://github.com/FPGAwars/icestudio/wiki) that contais a lot wip collections.
 
 
-
-
 ### :point_right: Continue to the next step, [hello world](02_hello_world.md)

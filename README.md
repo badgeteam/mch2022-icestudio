@@ -41,7 +41,9 @@ things:
 * **Step 3**: Done! 😀️
 
 
+
 ### Install it and try! Get started with [our Icestudio starter guide](starter-guide/01_setup.md)
+
 
 
 # Some Nice Projects:

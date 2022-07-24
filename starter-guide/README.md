@@ -18,12 +18,12 @@ https://downloads.icestudio.io
 
 Launch your binary and Icestudio start.
 
-[](assets/01/01.png)
+![](/starter-guide/assets/01/01.png)
 
 The first you view is the startup screen.
 
 At the first start you need to select your board, in this case MCH2022:
-[](assets/01/02.png)
+![](assets/01/02.png)
 
 
 The next step consist in install the APIO toolchain. This is a very easy step, you only need to click in the right bottom toaster tip:

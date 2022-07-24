@@ -10,7 +10,7 @@ Advanced users could make their own blocks on verilog and encapsulate in an easy
 
 Blocks could be grouped into **collections** that works like component libraries.
 
-** But first we need to setup some things **
+**But first we need to setup some things**
 
 ## Install collections
 
@@ -68,3 +68,8 @@ The next time all we be avabilable instantly.
 ## Other collections
 
 Visit our [wiki page](https://github.com/FPGAwars/icestudio/wiki) that contais a lot wip collections.
+
+
+
+
+### :point_right: Continue to the next step, [hello_world](01_hello_world.md)

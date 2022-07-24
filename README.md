@@ -10,7 +10,7 @@ We are working in very powerful new features that will be deployed along 2022.
 
 In this repository you could find some examples to play and learn FPGAs with your badge. If you are a newby with FPGAs or with Icestudio, explore it!
 
-You can download Icestudio from [Icestudio download page](https://download.icestudio.io)
+You can download Icestudio from [Icestudio download page](https://downloads.icestudio.io)
 
 Download always the latest wip (the most recent binaries) and dont worry, Icestudio WIPs are very stables and contains the latest features..
 

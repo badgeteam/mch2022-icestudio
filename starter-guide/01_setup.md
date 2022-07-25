@@ -1,7 +1,7 @@
 # Setup MCH2022!
 
-In the first example, you'll turn on the RGB led and understand the basic
-concepts of Icestudio.
+We start off with a trivial example to help understand Icestudio basics: turn
+the RGB LED on and off.
 
 Icestudio allows you to combine **logic blocks** to a circuit and translate the
 resulting circuit to an FPGA bitstream.
@@ -14,25 +14,25 @@ others.
 Blocks can be grouped into **collections** that works like component
 libraries.
 
-**But First We Need to Set Up Some Things**
+**But first we need to set some things up**
 
 ## Install Collections
 
-The first collections you need to install are:
+You should start by installing these collections:
 
 * [Jedi Collection](https://github.com/FPGAwars/Collection-Jedi) basic components.
 * [PLL Collection](https://github.com/FPGAwars/icePLL) blocks to manage PLL
 
-First, install some basic collections containing useful blocks. Go to
+To install collections containing useful blocks, go to
 **edit/preferences/external collections**
 
 ![](assets/01_setup/01.png)
 
 
-Enter the complete path to the directory in which you put the **collections**.
+Enter the complete path to the directory in which you put the **collections**
 into this option.
 
-Then go to **Tools / Collectiosn / Reload**
+Then go to **Tools / Collections / Reload**
 
 
 ![](assets/01_setup/02.png)
@@ -41,14 +41,15 @@ Then go to **Tools / Collectiosn / Reload**
 To install collections you need to **copy the directory containing the collection
 to the directory you configured** and **reload it**.
 
-If everything worked, you can view your installed collections in **View /
+If everything worked, you can view the collections installed in IceStudio in **View /
 Collections**
 
-![](assets/01_setup/03.png)
+![View Collections](assets/01_setup/03.png)
 
 
 
-Once you installed and reload collections you should see something similar to:
+Once you installed and reloaded collections you should see something similar
+to:
 
 ![](assets/01_setup/04.png)
 
@@ -70,7 +71,7 @@ Click on the top icon and this window appears:
 ![Collection Manager](assets/01_setup/05.png)
 
 If this is the first time you opened the Collection Manager, it may take some
-time to load all the blocks, when finish, you will see s list of all loaded
+time to load all the blocks, when finish, you will see a list of all loaded
 collections.
 
 The next time you use it, all collections will be available instantly.

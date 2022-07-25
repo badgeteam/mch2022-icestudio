@@ -1,43 +1,51 @@
 # Outside communications
 
-The FPGA is not alone, in fact its power is collaborating with other chips or computers.
+No FPGA is an island :) In fact it's true power lies in the
+collaboration with other chips, components and computers.
 
-Simple way to connect with your computer is across usb with the serial port that the badge support throught the UART.
+The simplest way to connect the FPGA to your computer is using the USB
+to open a serial connection. You can use this to communicate with a UART
+on the FPGA.
 
-Icestudio  has a serial terminal that you could use to communicate with your badge.
+Icestudio has a serial terminal that you can use to communicate with
+your Badge.
 
-Load the comm_serial_badge example. This example reads the keyboard from the serial terminal, and sets de ASCII character value as a level of RED color at the RGB led.
+Load the [`comm_serial_badge`
+example](https://github.com/badgeteam/mch2022-icestudio/tree/main/examples/comm_serial_badge).
+This example reads keypresses from your laptop's keyboard via the serial
+terminal, and changes the level of the red LED according to the ASCII
+value of the key pressed.
 
 ![](assets/05_serial/01.png)
 
 
 
-To try it, **Build** and **Upload** the example, and then, open the serial terminal of Icestudio (or each serial terminal you want).
+To try it, **Build** and **Upload** (*Tools->Build* or Ctl-B, Ctl-U) the
+example, then open the serial terminal of Icestudio (or each serial
+terminal you want).
 
-![](assets/05_serial/02b.png)
-
-
-
-Click on **reload serial devices** to scan for available uarts.
-
-![](assets/05_serial/02.png)
+![Serial Terminal](assets/05_serial/02b.png)
 
 
+Click on **reload serial devices** to scan for available UARTs.
 
-Select the uart corresponding to the badge FPGA and connect.
+![Reload](assets/05_serial/02.png)
 
-![](assets/05_serial/03.png)
+Select the UART corresponding to the Badge FPGA and connect.
 
-
-Write as you want in the terminal and show the color of your RGB led.
-
-![](assets/05_serial/04.png)
+![Select and Connect](assets/05_serial/03.png)
 
 
+Type some keys in the terminal and see how this affects the color of your RGB LED.
 
-Of course, you could use Icestudio serial terminal to connect with micropython terminal shell of your badge:
+![Console in action](assets/05_serial/04.png)
 
-![](assets/05_serial/05.png)
+
+
+You can also use Icestudio's serial terminal to connect with the Micropython
+terminal shell of your Badge:
+
+![Connecting with Micropython](assets/05_serial/05.png)
 
 
 

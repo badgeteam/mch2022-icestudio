@@ -5,7 +5,7 @@
 Icestudio is a design tool focused on newcomers to the FPGA world. 
 
 Icestudio started as an easy development process for open source FPGAs. But
-today a number of advanced FPGA developers use it, too, mixing traditional 
+today a number of advanced FPGA developers use it, too: mixing traditional 
 workflows with the easy flow of the drag and drop Icestudio IDE.
 
 We are working on very powerful new features that will be deployed in the
@@ -42,7 +42,8 @@ things:
 
 
 
-### Install it and try! Get started with [our Icestudio starter guide](starter-guide/01_setup.md)
+### Install it and try! Get started with [our Icestudio starter
+guide](starter-guide/README.md)
 
 
 

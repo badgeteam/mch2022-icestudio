@@ -81,16 +81,13 @@ Beginning](https://github.com/Obijuan/nand2tetris-icestudio)
 ![Icemem](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/screenshot-03-icemem.png)
 
 
-
-<<<<<<< HEAD
 ## More collections and blocks
 
 You can find more blocks and collections at [FPGAwars community](https://github.com/FPGAwars)
 
 
-=======
+
 ## This repository is under development and during the event, you may find
 more examples and tutorials, so keep in touch!
->>>>>>> 14b3fb8dd71886831ee36df9c98fdd5e3dc452cc
 
 And in case you have some suggestions or tutorials to contribute, we would really appreciate a pull request!

@@ -1,53 +1,71 @@
-# Interactivy
+# Interactivity
 
-The FPGA is not alone, it could communicate with other chips around this and with others computers.
+While the FPGA could operate on its own, it's more fun to interact with all the other peripherals on the board and with other computers...
 
-You could interact with your badge FPGA, for example by the buttons.
+For example, a logical thing to do is interact with the buttons to allow for
+user interaction.  
 
-The buttons in the MCH2022 Badge are connected to the RP2040 chip, for this reason you need to communicate with it throught SPI.
+The buttons in the MCH2022 Badge are connected to the RP2040 chip which
+forwards clicks to ESP32 processor. The ESP in turn forwards clicks to the
+FPGA.  So, while it might sound strange, this is hte reason you need to
+communicate with the buttons via SPI.
 
-Icestudio tries to simplify development , in this way we develop a block to get the buttons state in easy way.
+Icestudio tries to simplify development by packing all these details into
+button *blocks* so you can access them easily and not have to worry about
+architecture craziness..
 
-Open the example **buttons.ice** and try it! is the same example that [https://github.com/badgeteam/mch2022-firmware-ice40/tree/master/projects/Buttons](https://github.com/badgeteam/mch2022-firmware-ice40/tree/master/projects/Buttons) but inside a block of Icestudio.
-
-
-![](assets/04_communications/01.png)
-
-
-After **Build** and **Upload** you cand push the buttons and  view how the RGB led lights in different colors.
-
-In this example you can view some new things:
-
-## Imported verilog files
-
-One, is in the same directory of .ice, exists some verilog files, this is because the buttons block is only a wrapper around the original code that uses an SPI core that is code in the verilog files.
-
-You could import verilog files putting comments in code blocks:
-
-![](assets/04_communications/02b.png)
+Open the example **buttons.ice** and try it! It's the same example contained in
+[https://github.com/badgeteam/mch2022-firmware-ice40/tree/master/projects/Buttons](https://github.com/badgeteam/mch2022-firmware-ice40/tree/master/projects/Buttons)
+but implemented with Icestudio blocks instead of Verilog.
 
 
-## Labeled connections
-
-In the **basis menu** you can insert **label input** and **label output**. This is a **virtual cable** that connects labels with the same name
-
-In this way this feature helps a lot to simplify the design layout.
+![Blocks!](assets/04_communications/01.png)
 
 
-![](assets/04_communications/02.png)
+After **Build** and **Upload** you cand push the Badge's buttons and see how
+the RGB LED lights up in different colors.
+
+This example demonstrates a number of new concepts:
+
+## Imported Verilog files
+
+The same directory containing the loaded `.ice` file contains Verilog
+source files. The button blocks you use are only a wrapper around the
+Verilog source code which uses an SPI core to access the buttons.
+
+You can import Verilog files by adding `@include` directives in comments
+within code blocks:
+
+![importing verilog](assets/04_communications/02b.png)
+
+
+## Labeled Connections
+
+Use the **basis menu** to insert **label input** and **label output**.
+These represent a **virtual cable** that connects labels with the same
+name.
+
+This feature helps to simplify the design layout by reducing the tangle
+of wires.
+
+
+![Label connections](assets/04_communications/02.png)
 
 
 
-The other example **color_mixer** is an evolution of this, but with the generic buttons block. In this example you increase the value of R,G and B color signal in each press per color:
+The next example, **color_mixer** goes one step furth, this time using the
+generic buttons block. This example allows you to change the value of R,G and
+B color channels by pressing the buttons:
 
 * Red, up and down
 * Green, left and right
 * Blue, A and B
 
 
-![](assets/04_communications/03.png)
+![RGB adjustment blocks](assets/04_communications/03.png)
 
 
-Try it, change things to experiment with results and enjoy!
+Try it, change some of the connection and experiment with results. Have
+fun!
 
 ### :point_right: Continue to the next step, [outside communications](05_outside_communications.md)

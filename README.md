@@ -5,7 +5,7 @@
 Icestudio is a design tool focused on newcomers to the FPGA world. 
 
 Icestudio started as an easy development process for open source FPGAs. But
-today a number of advanced FPGA developers use it, too, mixing traditional 
+today a number of advanced FPGA developers use it, too: mixing traditional 
 workflows with the easy flow of the drag and drop Icestudio IDE.
 
 We are working on very powerful new features that will be deployed in the
@@ -42,7 +42,8 @@ things:
 
 
 
-### Install it and try! Get started with [our Icestudio starter guide](starter-guide/01_setup.md)
+### Install it and try! Get started with [our Icestudio starter
+guide](starter-guide/README.md)
 
 
 
@@ -81,16 +82,13 @@ Beginning](https://github.com/Obijuan/nand2tetris-icestudio)
 ![Icemem](https://github.com/FPGAwars/icestudio-wiki/raw/main/Readme/screenshot-03-icemem.png)
 
 
-
-<<<<<<< HEAD
 ## More collections and blocks
 
 You can find more blocks and collections at [FPGAwars community](https://github.com/FPGAwars)
 
 
-=======
+
 ## This repository is under development and during the event, you may find
 more examples and tutorials, so keep in touch!
->>>>>>> 14b3fb8dd71886831ee36df9c98fdd5e3dc452cc
 
 And in case you have some suggestions or tutorials to contribute, we would really appreciate a pull request!

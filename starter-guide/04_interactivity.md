@@ -1,4 +1,4 @@
-# Interactivy
+# Interactivity
 
 The FPGA is not alone, it could communicate with other chips around this and with others computers.
 
